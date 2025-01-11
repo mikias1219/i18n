@@ -1,0 +1,22 @@
+{
+    "welcome": "Welcome to the Home Page",
+    "change_language": "Change Language","recently_added_products": "Recently Added Products",
+  "recently_added_products_sub": "Added: ",
+  "quantity_added": "+{quantity}",
+  "recently_sold_products": "Recently Sold Products",
+  "recently_sold_products_sub": "Sold: ",
+  "quantity_sold": "-{quantity}",
+  "stock_summary": "Stock Summary",
+  "total_products": "Total Products: {count}",
+  "low_stock": "Low Stock: {count}",
+  "in_stock": "In Stock: {count}",
+  "low_stock_alert": "Low Stock Alert",
+  "low_stock_alert_sub": "Products with less than 10 units in stock:",
+  "menu": "Menu",
+  "dashboard": "Dashboard",
+  "products": "Products",
+  "sales": "Sales",
+  "reports": "Reports",
+  "product_detail": "Product Detail"
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "welcome": "Bienvenido a la página principal",
+    "change_language": "hello",
+
+    "recently_added_products": "በቅርቡ ተጨማሪ የተሰጡ ምርቶች",
+  "recently_added_products_sub": "ተጨማሪ ሲሆን:",
+  "quantity_added": "+{quantity}",
+  "recently_sold_products": "በቅርቡ ሽያጭ ተደርጓል ምርቶች",
+  "recently_sold_products_sub": "ሽያጭ ሲሆን:",
+  "quantity_sold": "-{quantity}",
+  "stock_summary": "የእቃ ግምገማ",
+  "total_products": "ጠቅላላ ምርቶች: {count}",
+  "low_stock": "በትንሹ የቆዩት እቃዎች: {count}",
+  "in_stock": "በእቃ ስትን ውስጥ: {count}",
+  "low_stock_alert": "ታዋቂ የተቆሙ እቃዎች",
+  "low_stock_alert_sub": "በ10 እቃዎች በታች ያሉት ምርቶች:",
+  "menu": "ምናሌ",
+  "dashboard": "መስመር መድብ",
+  "products": "ምርቶች",
+  "sales": "ሽያጭ",
+  "reports": "ሪፖርቶች",
+  "product_detail": "ምርት መረጃ"
+  }
+  
