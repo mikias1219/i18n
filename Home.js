@@ -8,7 +8,7 @@ const Home = ({ navigation }) => {
   const changeLanguage = (lng) => {
     i18n.changeLanguage(lng);
   };
-
+   
   return (
     <View style={styles.container}>
       <Text style={styles.welcome}>{t('welcome')}</Text>
