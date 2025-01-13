@@ -1,6 +1,5 @@
 import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
-
 const resources = {
   en: {
     translation: {
@@ -11,6 +10,9 @@ const resources = {
       details_page: 'Go to Details',
       details_description: 'This is the details page.',
       go_back: 'Go Back',
+      inventory: 'Inventory',
+      add_product: 'Add Product',
+      product_details: 'Product Details',
     },
   },
   am: {
@@ -22,9 +24,13 @@ const resources = {
       details_page: 'ወደ ዝርዝር ይሂዱ',
       details_description: 'ይህ ዝርዝር ገጽ ነው።',
       go_back: 'ተመለስ',
+      inventory: 'እቃዎች',
+      add_product: 'ምርት አክል',
+      product_details: 'ዝርዝር ምርት',
     },
   },
 };
+
 
 i18n.use(initReactI18next).init({
   resources,
